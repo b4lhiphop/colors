@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "brian-time"
+version = "0.1.0"
+description = "I forgot the description"
+authors = ["Brian Gardner the GREAT"]
+license = "Na im unlicensed I still drive tho"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
